@@ -17,7 +17,7 @@ Installation and Usage
 
 ### 2. Just Deploy the same on Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gagolang/LineBotTemplate)
 
 Remember your heroku, ID.
 
